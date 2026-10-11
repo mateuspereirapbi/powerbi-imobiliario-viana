@@ -1,18 +1,29 @@
-# 📊 Projeção do Mercado Imobiliário — Viana do Castelo (2020-2028)
+# 📊 Projeção do Mercado Imobiliário — Viana do Castelo
 
 ## 📌 Sobre o Projeto
-Análise exploratória e preditiva do mercado imobiliário residencial no distrito de Viana do Castelo, desenvolvida em Power BI.
+
+Análise exploratória e preditiva do preço médio da habitação (€/m²) nos 10 concelhos do distrito de Viana do Castelo, desenvolvida em Power BI. Dados de 2020 a 2026, com previsão até 2028.
 
 ## 🛠️ Tecnologias & Metodologias
-- **Power BI & DAX:** Métricas dinâmicas, inteligência temporal e formatação personalizada.
-- **Modelação de Dados:** Star Schema (Tabelas Fato + Dimensão).
-- **Algoritmo Preditivo:** Suavização Exponencial (ETS) com intervalo de confiança a 95% e sazonalidade S=2.
+
+- **Power BI & DAX:** métricas dinâmicas, inteligência temporal e formatação personalizada.
+- **Modelação de Dados:** Star Schema (tabelas de factos + dimensões).
+- **Algoritmo Preditivo:** Suavização Exponencial (ETS) com intervalo de confiança de 95% e sazonalidade S=2.
 - **Fontes de Dados:** Idealista / INE (2020-2026).
 
 ## 💡 Principais Insights
-- **Preço Médio Atual:** 1 010 €/m² (+28,5% vs 2020).
-- **Previsão 12 Meses:** 1 067 €/m².
-- **Destaque Litoral:** Viana do Castelo (1 595 €) e Caminha (1 347 €) registam a maior valorização do distrito.
 
----
-*Ficheiro `.pbix` disponível para download neste repositório.*
+- **Preço médio atual:** 1 010 €/m² (+28,5% face a 2020; +5,6% nos últimos 12 meses).
+- **Previsão a 12 meses:** 1 067 €/m².
+- **Litoral vs interior:** Viana do Castelo (1 595 €/m²) e Caminha (1 347 €/m²) registam a maior valorização do distrito, enquanto Melgaço (602 €/m²) e Paredes de Coura (695 €/m²) têm os preços mais baixos.
+
+## ⚠️ Limitações
+
+- Os valores do Idealista são preços **pedidos**, não preços de venda.
+- Valores nominais, sem ajuste à inflação.
+- A previsão prolonga a tendência histórica e não antecipa mudanças em juros, crédito ou legislação.
+- Esta análise tem fins informativos e não constitui aconselhamento financeiro.
+
+## ▶️ Como abrir
+
+Descarregar `Imob_Viana_2028.pbix` e abrir no **Power BI Desktop** (Windows).
