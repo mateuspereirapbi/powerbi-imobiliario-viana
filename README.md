@@ -1,6 +1,5 @@
 # 📊 Projeção do Mercado Imobiliário — Viana do Castelo
-
-<img width="1124" height="736" alt="Captura de ecrã 2026-10-11 135126" src="https://github.com/user-attachments/assets/ab7e9c17-1f7b-46c8-b8b4-060853a68605" />
+<img width="1104" height="738" alt="Captura de ecrã 2026-10-13 235509" src="https://github.com/user-attachments/assets/e1b2eae5-ff2c-4b7b-bf2b-2759d9f421e4" />
 
 ## 📌 Sobre o Projeto
 
