@@ -10,13 +10,13 @@ Análise exploratória e preditiva do preço médio da habitação (€/m²) nos
 - **Power BI & DAX:** métricas dinâmicas, inteligência temporal e formatação personalizada.
 - **Modelação de Dados:** Star Schema (tabelas de factos + dimensões).
 - **Algoritmo Preditivo:** Suavização Exponencial (ETS) com intervalo de confiança de 95% e sazonalidade S=2.
-- **Fontes de Dados:** Idealista / INE (2020-2026).
+- **Fontes de Dados:** Idealista / INE (2020–2026).
 
 ## 💡 Principais Insights
 
-- **Preço médio atual:** 1 010 €/m² (+28,5% face a 2020; +5,6% nos últimos 12 meses).
-- **Previsão a 12 meses:** 1 067 €/m².
-- **Litoral vs interior:** Viana do Castelo (1 595 €/m²) e Caminha (1 347 €/m²) registam a maior valorização do distrito, enquanto Melgaço (602 €/m²) e Paredes de Coura (695 €/m²) têm os preços mais baixos.
+- **Preço médio atual:** 1 378 €/m² (+77,6% face a 2020; +18,3% nos últimos 12 meses).
+- **Previsão a 12 meses:** 1 470 €/m².
+- **Litoral vs interior:** Viana do Castelo (2 275 €/m²) e Caminha (1 974 €/m²) registam a maior valorização do distrito, enquanto Melgaço (693 €/m²) e Paredes de Coura (1 046 €/m²) têm os preços mais baixos.
 
 ## ⚠️ Limitações
 
